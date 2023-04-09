@@ -1,1 +1,1 @@
-Distributed cluster chat server
+Distributed cluster chat server implemented by C++
